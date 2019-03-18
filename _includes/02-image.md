@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Octocat](https://avatars3.githubusercontent.com/u/29583788?v=4)
